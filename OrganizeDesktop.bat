@@ -3,6 +3,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 rem ==============================================================================
 rem  OrganizeDesktop.bat
+rem  Developer: Bigyanlabs R&D
 rem
 rem  Moves files and folders from the current user's Desktop into categorized
 rem  subfolders.
