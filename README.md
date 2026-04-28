@@ -2,6 +2,8 @@
 
 A simple Windows Batch + PowerShell script that organizes files and folders on your Desktop into categorized subfolders.
 
+**Developer:** Bigyanlabs R&D
+
 ## What it does
 
 Creates these folders on your Desktop (if missing) and moves items into them:
@@ -36,4 +38,3 @@ OrganizeDesktop.bat --no-pause
 ## Safety
 
 This script moves items (it does not delete anything). Still, it’s a good idea to run `--dry-run` first.
-
